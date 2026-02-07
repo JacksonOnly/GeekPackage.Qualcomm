@@ -6486,30 +6486,6 @@
       "RootCaHash": "G+vjhjpngdtLAQhgYwBzNN6eXKFJccfE9DWOydec2kaSzl6UjG/UCUCPTJGfyt/j"
     },
     {
-      "Id": "c02a6c83-1676-427f-b510-9f70c49e8ec9",
-      "Name": "Qualcomm_unknown_0",
-      "Description": "SoC: UnknownSocHwVer_9005, OEM: UnknownOem_0160",
-      "OriginFileName": "XTCWatch_Z10_devprg",
-      "FileName": "UnknownOem_0160\\UnknownSocHwVer_9005\\ADD432DD06132F6160A6AA122524C208F8A0D5DC3A92A08D6EF5034E0B6C30C5",
-      "Soc": 297,
-      "Oem": 0,
-      "AntiRollbackVersion": 0,
-      "SocHwVersion": 36869,
-      "OemId": 352,
-      "ModelId": 20736,
-      "HwId": 23089408,
-      "MsmId": 0,
-      "SwId": 3,
-      "SwSize": 0,
-      "QcVersion": "BOOT.XF.4.3-00235-ATHERTONLAZ-1",
-      "OemVersion": "dhandroderv",
-      "ImageVariant": "AthertonPkgLAA",
-      "BuildTime": "2024-04-20 17:58:56",
-      "RootCaSubject": "S=California, O=SecTools, L=DongGuan, OU=\"General Use XTC Key \", OU=CDMA Technologies, CN=Generated Commercial Root CA, C=US",
-      "FileHash": "rdQy3QYTL2FgpqoSJSTCCPig1dw6kqCNbvUDTgtsMMU=",
-      "RootCaHash": "137q8cGJVihqkfrqoSjwt70vo+eYSHpZZq2ZznNYFy5gBw5dwSUg9lyE0Na4proj"
-    },
-    {
       "Id": "e06e94a8-6d45-49dd-8299-288993825221",
       "Name": "Qualcomm_unknown_0",
       "Description": "SoC: UnknownSocMsmId_0000, OEM: Qualcomm",
@@ -7444,6 +7420,30 @@
       "RootCaSubject": "CN=ZTE Signing Root, O=ZTE, OU=SMP, L=ShangHai, S=ShangHai, C=CN",
       "FileHash": "Jt11Cz6JElqikcb3GuTRhGP35lOPOH35dJNZckXMSAI=",
       "RootCaHash": "0bibE4Ww20aOri+9wPX4LrYujC7D2ceeX85owD6WfO4="
+    },
+    {
+      "Id": "6f80b7f4-d5aa-4ed9-8862-2c0c9e28334c",
+      "Name": "XTC_SW5100_0",
+      "Description": "SoC: SW5100, OEM: XTC",
+      "OriginFileName": "XTCWatch_Z10_devprg",
+      "FileName": "XTC\\SW5100\\ADD432DD06132F6160A6AA122524C208F8A0D5DC3A92A08D6EF5034E0B6C30C5",
+      "Soc": 67,
+      "Oem": 29,
+      "AntiRollbackVersion": 0,
+      "SocHwVersion": 36869,
+      "OemId": 352,
+      "ModelId": 20736,
+      "HwId": 23089408,
+      "MsmId": 0,
+      "SwId": 3,
+      "SwSize": 0,
+      "QcVersion": "BOOT.XF.4.3-00235-ATHERTONLAZ-1",
+      "OemVersion": "dhandroderv",
+      "ImageVariant": "AthertonPkgLAA",
+      "BuildTime": "2024-04-20 17:58:56",
+      "RootCaSubject": "S=California, O=SecTools, L=DongGuan, OU=\"General Use XTC Key \", OU=CDMA Technologies, CN=Generated Commercial Root CA, C=US",
+      "FileHash": "rdQy3QYTL2FgpqoSJSTCCPig1dw6kqCNbvUDTgtsMMU=",
+      "RootCaHash": "137q8cGJVihqkfrqoSjwt70vo+eYSHpZZq2ZznNYFy5gBw5dwSUg9lyE0Na4proj"
     }
   ]
 }
